@@ -1,0 +1,41 @@
+body {
+	margin:5em 3% 5em 3%;
+
+}
+.main {
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.header{
+	margin-bottom: 3em;
+}
+.left {
+	width:100%;
+	margin:0;padding: 0;
+	float: left;
+}
+.right{
+	/*width: 20%;*/
+	width: 0%;
+	margin: 0;padding: 0;
+	float: right;
+}
+.cell{
+    position: relative;
+    float: left;
+
+
+    height: 130px;
+
+    line-height: 22px;
+    font-family: Arial, Verdana;
+
+
+}
+.cell>a{vertical-align: 70%;}
+img {
+    border: solid 0px #0000ff;
+    height: 120px;
+    width: 120px;
+}

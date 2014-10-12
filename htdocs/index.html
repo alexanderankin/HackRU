@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="./css/style.css" />
+	<meta charset="UTF-8" />
+	<title>Find new Followers!</title>
+	
+<script type="text/javascript">
+	function doSomething() {
+		var blogname = "";
+		blogname = document.getElementById("myField").value;
+		alert(blogname);
+	}
+</script>
+</head>
+<body>
+<div class="main">
+	<div class="header">
+		<div>
+			<form method="post">
+				<input id="myField" type="text" name="firstname" placeholder="Enter my blog name">
+				<input name="btn" onclick="doSomething" type="submit" value="GO">
+			</form>
+			<button type="button" onclick="doSomething()">go</button>
+			<p id="editable"></p>
+		</div>
+	</div>
+	<div class="main">
+		<div class="left">
+			
+			<div class="cell"><img src="./images/blog.png"/><a id="link" href="#">1</a></div>
+			<div class="cell"><img src="./images/blog.png"/><a id="link2" href="#">2</a>
+			<div id="result" class="cell"></div>
+			
+		</div>
+		<div class="right">
+
+		</div>
+		
+	</div>
+	<div class="footer"></div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,183 @@
+2014-06-04 12:54:19 7056 [Note] Plugin 'FEDERATED' is disabled.
+2014-06-04 12:54:19 1b94 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2014-06-04 12:54:19 7056 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2014-06-04 12:54:19 7056 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-06-04 12:54:19 7056 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2014-06-04 12:54:19 7056 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-06-04 12:54:19 7056 [Note] InnoDB: Not using CPU crc32 instructions
+2014-06-04 12:54:19 7056 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2014-06-04 12:54:19 7056 [Note] InnoDB: Completed initialization of buffer pool
+2014-06-04 12:54:19 7056 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-06-04 12:54:19 7056 [Warning] InnoDB: Resizing redo log from 2*3072 to 2*320 pages, LSN=1625987
+2014-06-04 12:54:19 7056 [Warning] InnoDB: Starting to delete and rewrite log files.
+2014-06-04 12:54:19 7056 [Note] InnoDB: Setting log file C:\resources\xampp\mysql\data\ib_logfile101 size to 5 MB
+2014-06-04 12:54:19 7056 [Note] InnoDB: Setting log file C:\resources\xampp\mysql\data\ib_logfile1 size to 5 MB
+2014-06-04 12:54:19 7056 [Note] InnoDB: Renaming log file C:\resources\xampp\mysql\data\ib_logfile101 to C:\resources\xampp\mysql\data\ib_logfile0
+2014-06-04 12:54:19 7056 [Warning] InnoDB: New log files created, LSN=1625987
+2014-06-04 12:54:19 7056 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-06-04 12:54:19 7056 [Note] InnoDB: Waiting for purge to start
+2014-06-04 12:54:19 7056 [Note] InnoDB: 5.6.16 started; log sequence number 1625987
+2014-06-04 12:54:19 7056 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: df18bd69-ec08-11e3-8600-94de80244b10.
+2014-06-04 12:54:19 7056 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-06-04 12:54:19 7056 [Note] IPv6 is available.
+2014-06-04 12:54:19 7056 [Note]   - '::' resolves to '::';
+2014-06-04 12:54:19 7056 [Note] Server socket created on IP: '::'.
+2014-06-04 12:54:19 7056 [Note] Event Scheduler: Loaded 0 events
+2014-06-04 12:54:19 7056 [Note] c:\resources\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2014-06-04 12:55:13 6908 [Note] Plugin 'FEDERATED' is disabled.
+2014-06-04 12:55:13 1b00 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2014-06-04 12:55:13 6908 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2014-06-04 12:55:13 6908 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-06-04 12:55:13 6908 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2014-06-04 12:55:13 6908 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-06-04 12:55:13 6908 [Note] InnoDB: Not using CPU crc32 instructions
+2014-06-04 12:55:13 6908 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2014-06-04 12:55:13 6908 [Note] InnoDB: Completed initialization of buffer pool
+2014-06-04 12:55:13 6908 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-06-04 12:55:13 6908 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 1626134 in the ib_logfiles!
+2014-06-04 12:55:13 6908 [Note] InnoDB: Database was not shutdown normally!
+2014-06-04 12:55:13 6908 [Note] InnoDB: Starting crash recovery.
+2014-06-04 12:55:13 6908 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-06-04 12:55:13 6908 [Note] InnoDB: Restoring possible half-written data pages 
+2014-06-04 12:55:13 6908 [Note] InnoDB: from the doublewrite buffer...
+2014-06-04 12:55:13 6908 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-06-04 12:55:14 6908 [Note] InnoDB: Waiting for purge to start
+2014-06-04 12:55:14 6908 [Note] InnoDB: 5.6.16 started; log sequence number 1626134
+2014-06-04 12:55:14 6908 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-06-04 12:55:14 6908 [Note] IPv6 is available.
+2014-06-04 12:55:14 6908 [Note]   - '::' resolves to '::';
+2014-06-04 12:55:14 6908 [Note] Server socket created on IP: '::'.
+2014-06-04 12:55:14 6908 [Note] Event Scheduler: Loaded 0 events
+2014-06-04 12:55:14 6908 [Note] c:\resources\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2014-06-11 00:35:48 2336 [Note] Plugin 'FEDERATED' is disabled.
+2014-06-11 00:35:48 d00 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2014-06-11 00:35:48 2336 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2014-06-11 00:35:48 2336 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-06-11 00:35:48 2336 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2014-06-11 00:35:48 2336 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-06-11 00:35:48 2336 [Note] InnoDB: Not using CPU crc32 instructions
+2014-06-11 00:35:48 2336 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2014-06-11 00:35:48 2336 [Note] InnoDB: Completed initialization of buffer pool
+2014-06-11 00:35:48 2336 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-06-11 00:35:48 2336 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 1626144 in the ib_logfiles!
+2014-06-11 00:35:48 2336 [Note] InnoDB: Database was not shutdown normally!
+2014-06-11 00:35:48 2336 [Note] InnoDB: Starting crash recovery.
+2014-06-11 00:35:48 2336 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-06-11 00:35:48 2336 [Note] InnoDB: Restoring possible half-written data pages 
+2014-06-11 00:35:48 2336 [Note] InnoDB: from the doublewrite buffer...
+2014-06-11 00:35:48 2336 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-06-11 00:35:48 2336 [Note] InnoDB: Waiting for purge to start
+2014-06-11 00:35:48 2336 [Note] InnoDB: 5.6.16 started; log sequence number 1626144
+2014-06-11 00:35:48 2336 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-06-11 00:35:48 2336 [Note] IPv6 is available.
+2014-06-11 00:35:48 2336 [Note]   - '::' resolves to '::';
+2014-06-11 00:35:48 2336 [Note] Server socket created on IP: '::'.
+2014-06-11 00:35:48 2336 [Note] Event Scheduler: Loaded 0 events
+2014-06-11 00:35:48 2336 [Note] c:\resources\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2014-06-12 16:27:14 1020 [Note] Plugin 'FEDERATED' is disabled.
+2014-06-12 16:27:14 fd8 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2014-06-12 16:27:14 1020 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2014-06-12 16:27:14 1020 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-06-12 16:27:14 1020 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2014-06-12 16:27:14 1020 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-06-12 16:27:14 1020 [Note] InnoDB: Not using CPU crc32 instructions
+2014-06-12 16:27:14 1020 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2014-06-12 16:27:14 1020 [Note] InnoDB: Completed initialization of buffer pool
+2014-06-12 16:27:14 1020 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-06-12 16:27:14 1020 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 1626154 in the ib_logfiles!
+2014-06-12 16:27:14 1020 [Note] InnoDB: Database was not shutdown normally!
+2014-06-12 16:27:14 1020 [Note] InnoDB: Starting crash recovery.
+2014-06-12 16:27:14 1020 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-06-12 16:27:14 1020 [Note] InnoDB: Restoring possible half-written data pages 
+2014-06-12 16:27:14 1020 [Note] InnoDB: from the doublewrite buffer...
+2014-06-12 16:27:14 1020 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-06-12 16:27:14 1020 [Note] InnoDB: Waiting for purge to start
+2014-06-12 16:27:14 1020 [Note] InnoDB: 5.6.16 started; log sequence number 1626154
+2014-06-12 16:27:14 1020 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-06-12 16:27:14 1020 [Note] IPv6 is available.
+2014-06-12 16:27:14 1020 [Note]   - '::' resolves to '::';
+2014-06-12 16:27:14 1020 [Note] Server socket created on IP: '::'.
+2014-06-12 16:27:14 1020 [Note] Event Scheduler: Loaded 0 events
+2014-06-12 16:27:14 1020 [Note] c:\resources\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2014-06-15 12:15:24 4672 [Note] Plugin 'FEDERATED' is disabled.
+2014-06-15 12:15:24 734 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2014-06-15 12:15:24 4672 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2014-06-15 12:15:24 4672 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-06-15 12:15:24 4672 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2014-06-15 12:15:24 4672 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-06-15 12:15:24 4672 [Note] InnoDB: Not using CPU crc32 instructions
+2014-06-15 12:15:24 4672 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2014-06-15 12:15:24 4672 [Note] InnoDB: Completed initialization of buffer pool
+2014-06-15 12:15:24 4672 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-06-15 12:15:24 4672 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 1626164 in the ib_logfiles!
+2014-06-15 12:15:24 4672 [Note] InnoDB: Database was not shutdown normally!
+2014-06-15 12:15:24 4672 [Note] InnoDB: Starting crash recovery.
+2014-06-15 12:15:24 4672 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-06-15 12:15:24 4672 [Note] InnoDB: Restoring possible half-written data pages 
+2014-06-15 12:15:24 4672 [Note] InnoDB: from the doublewrite buffer...
+2014-06-15 12:15:24 4672 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-06-15 12:15:24 4672 [Note] InnoDB: Waiting for purge to start
+2014-06-15 12:15:24 4672 [Note] InnoDB: 5.6.16 started; log sequence number 1626164
+2014-06-15 12:15:24 4672 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-06-15 12:15:24 4672 [Note] IPv6 is available.
+2014-06-15 12:15:24 4672 [Note]   - '::' resolves to '::';
+2014-06-15 12:15:24 4672 [Note] Server socket created on IP: '::'.
+2014-06-15 12:15:24 4672 [Note] Event Scheduler: Loaded 0 events
+2014-06-15 12:15:24 4672 [Note] c:\resources\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2014-10-12 06:06:48 3012 [Note] Plugin 'FEDERATED' is disabled.
+2014-10-12 06:06:48 e88 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2014-10-12 06:06:48 3012 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2014-10-12 06:06:48 3012 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-10-12 06:06:48 3012 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2014-10-12 06:06:48 3012 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-10-12 06:06:48 3012 [Note] InnoDB: Not using CPU crc32 instructions
+2014-10-12 06:06:48 3012 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2014-10-12 06:06:48 3012 [Note] InnoDB: Completed initialization of buffer pool
+2014-10-12 06:06:48 3012 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-10-12 06:06:48 3012 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 1626174 in the ib_logfiles!
+2014-10-12 06:06:48 3012 [Note] InnoDB: Database was not shutdown normally!
+2014-10-12 06:06:48 3012 [Note] InnoDB: Starting crash recovery.
+2014-10-12 06:06:48 3012 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-10-12 06:06:48 3012 [Note] InnoDB: Restoring possible half-written data pages 
+2014-10-12 06:06:48 3012 [Note] InnoDB: from the doublewrite buffer...
+2014-10-12 06:06:49 3012 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-10-12 06:06:49 3012 [Note] InnoDB: Waiting for purge to start
+2014-10-12 06:06:49 3012 [Note] InnoDB: 5.6.16 started; log sequence number 1626174
+2014-10-12 06:06:49 3012 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-10-12 06:06:49 3012 [Note] IPv6 is available.
+2014-10-12 06:06:49 3012 [Note]   - '::' resolves to '::';
+2014-10-12 06:06:49 3012 [Note] Server socket created on IP: '::'.
+2014-10-12 06:06:49 3012 [Note] Event Scheduler: Loaded 0 events
+2014-10-12 06:06:49 3012 [Note] c:\resources\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2014-10-12 07:48:40 7984 [Note] Plugin 'FEDERATED' is disabled.
+2014-10-12 07:48:40 1f34 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2014-10-12 07:48:40 7984 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2014-10-12 07:48:40 7984 [Note] InnoDB: The InnoDB memory heap is disabled
+2014-10-12 07:48:40 7984 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2014-10-12 07:48:40 7984 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2014-10-12 07:48:40 7984 [Note] InnoDB: Not using CPU crc32 instructions
+2014-10-12 07:48:40 7984 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2014-10-12 07:48:40 7984 [Note] InnoDB: Completed initialization of buffer pool
+2014-10-12 07:48:40 7984 [Note] InnoDB: Highest supported file format is Barracuda.
+2014-10-12 07:48:40 7984 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 1680966 in the ib_logfiles!
+2014-10-12 07:48:40 7984 [Note] InnoDB: Database was not shutdown normally!
+2014-10-12 07:48:40 7984 [Note] InnoDB: Starting crash recovery.
+2014-10-12 07:48:40 7984 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2014-10-12 07:48:40 7984 [Note] InnoDB: Restoring possible half-written data pages 
+2014-10-12 07:48:40 7984 [Note] InnoDB: from the doublewrite buffer...
+2014-10-12 07:48:41 7984 [Note] InnoDB: 128 rollback segment(s) are active.
+2014-10-12 07:48:41 7984 [Note] InnoDB: Waiting for purge to start
+2014-10-12 07:48:41 7984 [Note] InnoDB: 5.6.16 started; log sequence number 1680966
+2014-10-12 07:48:41 7984 [Note] Server hostname (bind-address): '*'; port: 3306
+2014-10-12 07:48:41 7984 [Note] IPv6 is available.
+2014-10-12 07:48:41 7984 [Note]   - '::' resolves to '::';
+2014-10-12 07:48:41 7984 [Note] Server socket created on IP: '::'.
+2014-10-12 07:48:41 7984 [Note] Event Scheduler: Loaded 0 events
+2014-10-12 07:48:41 7984 [Note] c:\resources\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.16'  socket: ''  port: 3306  MySQL Community Server (GPL)

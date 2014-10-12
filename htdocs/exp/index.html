@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../css/style.css" />
+	<meta charset="UTF-8" />
+	<title>Find new Blogs!</title>
+<script type="javascript">
+	function doSomething() {
+		var myInput = document.getElementById("myField");
+		document.write(myInput).value;
+	}
+</script>
+</head>
+<body>
+<div class="main">
+	<div class="header">
+		<div>
+			<form> 
+				<input id="myField" type="text" name="firstname" placeholder="Enter my blog name">
+				<input name="btn" onclick="doSomething" type="submit" value="GO">
+			</form>
+		</div>
+	</div>
+	<div class="main">
+		<div class="left">
+			
+			<div class="cell"><img src="../images/blog.png"/><a id="link" href="#">1</a></div>
+			<div class="cell"><img src="../images/blog.png"/><a id="link2" href="#">2</a>
+			<div id="result" class="cell"></div>
+			
+		</div>
+		<div class="right">
+
+		</div>
+		
+	</div>
+	<div class="footer"></div>
+
+</div>
+</body>
+</html>
